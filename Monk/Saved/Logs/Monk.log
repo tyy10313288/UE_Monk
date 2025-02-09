@@ -1557,3 +1557,162 @@ FPackageName: Skipped package /Game/Asset/WoodenFish/Object_2 has a valid, mount
 [2025.02.09-17.31.16:737][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.09-17.31.16:737][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.09-17.31.16:738][885]AssetCheck: /Game/ConversationSystem/BP_TalkMonk アセットを検証しています
+[2025.02.09-17.31.33:682][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.09-17.31.34:360][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-17.31.34:526][470]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGame/WoodenFish/WBP_ShowResult] ([2] browsable assets)...
+[2025.02.09-17.31.34:552][470]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGame/WoodenFish/WBP_ShowResult.WBP_ShowResult]
+[2025.02.09-17.31.34:552][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame/WoodenFish/WBP_ShowResult]
+[2025.02.09-17.31.34:552][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame/WoodenFish/WBP_ShowResult" FILE="../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/MiniGame/WoodenFish/WBP_ShowResult.uasset" SILENT=true
+[2025.02.09-17.31.34:561][470]LogSavePackage: Moving output files for package: /Game/MiniGame/WoodenFish/WBP_ShowResult
+[2025.02.09-17.31.34:562][470]LogSavePackage: Moving '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Saved/WBP_ShowResult0CC53BB64665E15BB5EE5D8CFBEBAD77.tmp' to '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/MiniGame/WoodenFish/WBP_ShowResult.uasset'
+[2025.02.09-17.31.34:610][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.280 ms (total: 528.608 ms)
+[2025.02.09-17.31.34:732][470]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.09-17.31.34:732][470]LogContentValidation: Enabled validators:
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.09-17.31.34:732][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.09-17.31.34:732][470]AssetCheck: /Game/MiniGame/WoodenFish/WBP_ShowResult アセットを検証しています
+[2025.02.09-17.31.43:453][759]LogBlueprint: Warning: [AssetLog] C:\Users\Julia\Documents\GitHub\UE_Monk\Monk\Content\MiniGame\WoodenFish\WBP_ShowResult.uasset: [Compiler] 貼り付けたノード  CustomEvent  が  showing result  と競合したためカスタムイベントとして置き換えられました!
+[2025.02.09-17.31.47:773][841]LogDerivedDataCache: C:/Users/Julia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.09-17.31.56:584][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.02.09-17.31.58:423][110]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2025.02.09-17.31.58:513][112]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2025.02.09-17.32.18:734][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.02.09-17.32.19:327][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-17.32.19:481][773]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MiniGame/WoodenFish/WBP_ShowResult] ([2] browsable assets)...
+[2025.02.09-17.32.19:507][773]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MiniGame/WoodenFish/WBP_ShowResult.WBP_ShowResult]
+[2025.02.09-17.32.19:507][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/MiniGame/WoodenFish/WBP_ShowResult]
+[2025.02.09-17.32.19:507][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MiniGame/WoodenFish/WBP_ShowResult" FILE="../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/MiniGame/WoodenFish/WBP_ShowResult.uasset" SILENT=true
+[2025.02.09-17.32.19:520][773]LogSavePackage: Moving output files for package: /Game/MiniGame/WoodenFish/WBP_ShowResult
+[2025.02.09-17.32.19:521][773]LogSavePackage: Moving '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Saved/WBP_ShowResult08FFB6284408114699BA08B5EA2EC46D.tmp' to '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/MiniGame/WoodenFish/WBP_ShowResult.uasset'
+[2025.02.09-17.32.19:563][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.347 ms (total: 764.956 ms)
+[2025.02.09-17.32.19:718][773]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.09-17.32.19:718][773]LogContentValidation: Enabled validators:
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.09-17.32.19:718][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.09-17.32.19:719][773]AssetCheck: /Game/MiniGame/WoodenFish/WBP_ShowResult アセットを検証しています
+[2025.02.09-17.33.00:579][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.09-17.33.01:387][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-17.33.01:577][762]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ConversationSystem/BP_TalkMonk] ([2] browsable assets)...
+[2025.02.09-17.33.01:606][762]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ConversationSystem/BP_TalkMonk.BP_TalkMonk]
+[2025.02.09-17.33.01:606][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/ConversationSystem/BP_TalkMonk]
+[2025.02.09-17.33.01:606][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConversationSystem/BP_TalkMonk" FILE="../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset" SILENT=true
+[2025.02.09-17.33.01:624][762]LogSavePackage: Moving output files for package: /Game/ConversationSystem/BP_TalkMonk
+[2025.02.09-17.33.01:624][762]LogSavePackage: Moving '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Saved/BP_TalkMonk2DC098584AC36C3FE5017798F0392FB6.tmp' to '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset'
+[2025.02.09-17.33.01:665][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.457 ms (total: 1.04 sec)
+[2025.02.09-17.33.01:792][762]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.09-17.33.01:792][762]LogContentValidation: Enabled validators:
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.09-17.33.01:792][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.09-17.33.01:792][762]AssetCheck: /Game/ConversationSystem/BP_TalkMonk アセットを検証しています
+[2025.02.09-17.33.05:775][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.02.09-17.33.10:130][984]LogDebuggerCommands: Repeating last play command: 選択ビューポート
+[2025.02.09-17.33.10:148][984]LogContentBundle: [ThirdPersonMap(スタンドアロン)] Generating Streaming for 0 Content Bundles.
+[2025.02.09-17.33.10:148][984]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.02.09-17.33.10:166][984]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 17.911 ms
+[2025.02.09-17.33.10:169][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-17.33.10:182][984]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.09-17.33.10:182][984]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.09-17.33.10:183][984]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.09-17.33.10:214][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030809s)
+[2025.02.09-17.33.10:214][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.030903s)
+[2025.02.09-17.33.10:238][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.02.09-17.33.10:240][984]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.02.09-17.33.10:244][984]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.09-17.33.10:244][984]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.09-17.33.10:244][984]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.09-17.33.10:244][984]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.09-17.33.10:253][984]LogWorldPartition: Display: WorldPartition initialize took 9.084 ms (total: 5.88 sec)
+[2025.02.09-17.33.10:253][984]LogPlayLevel: PIE: World Init took: (0.012003s)
+[2025.02.09-17.33.10:253][984]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-17.33.10:253][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.09-17.33.10:253][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-17.33.10:253][984]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-17.33.10:253][984]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-17.33.10:253][984]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-17.33.10:257][984]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.09-17.33.10:315][984]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.09-17.33.10:316][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-17.33.10:316][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-17.33.10:316][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-17.33.10:317][984]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.09-17.33.10:317][984]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.09-17.33.10:320][984]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.09-17.33.10:320][984]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.09-17.33.10:320][984]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.09-17.33.10:320][984]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.02.09-17.33.10:320][984]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.09-17.33.10:328][984]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.09-17.33.10:359][984]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.02.10-02.33.10
+[2025.02.09-17.33.10:373][984]LogWorld: Bringing up level for play took: 0.042568
+[2025.02.09-17.33.10:378][984]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.02.09-17.33.10:443][984]LogMovieScene: Starting new camera cut: 'CameraActor_UAID_A05950BC5605C24A02_1899150787'
+[2025.02.09-17.33.10:446][984]PIE: サーバーにログインしました
+[2025.02.09-17.33.10:448][984]PIE: PIE合計開始時間 0.302 秒。
+[2025.02.09-17.33.16:924][232]LogMediaAssets: Error: Failed to validate media source monk (file://C:/Users/Julia/Downloads/monk.mp4)
+[2025.02.09-17.33.58:006][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-17.33.58:006][616]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.02.09-17.33.58:012][616]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-17.33.58:023][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-17.33.58:025][616]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.02.09-17.33.58:036][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-17.33.58:050][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-17.33.58:081][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-17.33.58:083][616]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.09-17.33.58:084][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.09-17.33.58:086][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.09-17.33.58:111][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.02.09-17.33.58:178][617]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.02.09-17.34.20:401][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.02.09-17.34.21:805][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-17.34.21:980][376]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ConversationSystem/BP_TalkMonk] ([2] browsable assets)...
+[2025.02.09-17.34.22:007][376]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ConversationSystem/BP_TalkMonk.BP_TalkMonk]
+[2025.02.09-17.34.22:007][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/ConversationSystem/BP_TalkMonk]
+[2025.02.09-17.34.22:007][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConversationSystem/BP_TalkMonk" FILE="../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset" SILENT=true
+[2025.02.09-17.34.22:026][376]LogSavePackage: Moving output files for package: /Game/ConversationSystem/BP_TalkMonk
+[2025.02.09-17.34.22:027][376]LogSavePackage: Moving '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Saved/BP_TalkMonk891670BF4706667B33A6FFB15CE0CC6D.tmp' to '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset'
+[2025.02.09-17.34.22:063][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.617 ms (total: 1.30 sec)
+[2025.02.09-17.34.22:204][376]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.09-17.34.22:204][376]LogContentValidation: Enabled validators:
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.09-17.34.22:204][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.09-17.34.22:205][376]AssetCheck: /Game/ConversationSystem/BP_TalkMonk アセットを検証しています
+[2025.02.09-17.34.36:307][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.09-17.34.37:047][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-17.34.37:202][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ConversationSystem/BP_TalkMonk] ([2] browsable assets)...
+[2025.02.09-17.34.37:230][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ConversationSystem/BP_TalkMonk.BP_TalkMonk]
+[2025.02.09-17.34.37:230][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/ConversationSystem/BP_TalkMonk]
+[2025.02.09-17.34.37:230][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ConversationSystem/BP_TalkMonk" FILE="../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset" SILENT=true
+[2025.02.09-17.34.37:241][885]LogSavePackage: Moving output files for package: /Game/ConversationSystem/BP_TalkMonk
+[2025.02.09-17.34.37:242][885]LogSavePackage: Moving '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Saved/BP_TalkMonk1F35EFA04865E9387406DF9D7D494DCE.tmp' to '../../../../../../Users/Julia/Documents/GitHub/UE_Monk/Monk/Content/ConversationSystem/BP_TalkMonk.uasset'
+[2025.02.09-17.34.37:289][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.790 ms (total: 1.54 sec)
+[2025.02.09-17.34.37:430][885]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.09-17.34.37:431][885]LogContentValidation: Enabled validators:
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.09-17.34.37:431][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.09-17.34.37:431][885]AssetCheck: /Game/ConversationSystem/BP_TalkMonk アセットを検証しています
