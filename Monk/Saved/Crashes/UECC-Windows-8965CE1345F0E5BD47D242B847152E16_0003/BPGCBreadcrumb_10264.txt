@@ -1,0 +1,2 @@
+/Engine/Transient.Default__DEADCLASS_BP_GuideToMission_C_3
+/Game/ThirdPerson/BP_Guide.BP_Guide_C
