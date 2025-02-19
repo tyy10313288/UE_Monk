@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\leoju\\OneDrive\\文件\\GitHub\\UE_Monk\\Monk\\Intermediate\\Source\\Monk.Build.cs",
+		"C:\\Users\\leoju\\OneDrive\\文件\\GitHub\\UE_Monk\\Monk\\Intermediate\\Source\\Monk.Target.cs",
+		"C:\\Users\\leoju\\OneDrive\\文件\\GitHub\\UE_Monk\\Monk\\Intermediate\\Source\\MonkClient.Target.cs",
+		"C:\\Users\\leoju\\OneDrive\\文件\\GitHub\\UE_Monk\\Monk\\Intermediate\\Source\\MonkEditor.Target.cs",
+		"C:\\Users\\leoju\\OneDrive\\文件\\GitHub\\UE_Monk\\Monk\\Intermediate\\Source\\MonkServer.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
